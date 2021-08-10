@@ -26,10 +26,6 @@ h2 {
     margin-bottom: 0;
 }
 
-.heading_input {
-    margin-top: 84px;
-    margin-bottom: 0;
-}
 
 h3 {
     font-size: 28px;
@@ -48,6 +44,7 @@ p{
 }
 ul {
     text-align: left;
+    margin-bottom: 84px;
 }
 form {
     margin-bottom: 105px;
